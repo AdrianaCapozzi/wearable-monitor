@@ -1,0 +1,35 @@
+=== NOVA REQUISIÇÃO [2026-05-05 00:48:24] ===
+MÉTODO: POST
+--- HEADERS ---
+Array
+(
+    [Content-Type] => multipart/form-data; boundary=----Esp32CamBoundary9380
+    [Content-Length] => 539
+    [Host] => wearable.surflog.com.br
+)
+
+--- DADOS POST ---
+Array
+(
+    [mac] => 08-D1-F9-E7-6B-D4
+    [token] => b4e4f8eb6432ba7e110e0724eb16d4ae
+    [latitude] => 20.000000
+    [longitude] => 40.000000
+)
+
+--- ARQUIVOS (FILES) ---
+Array
+(
+    [imagem] => Array
+        (
+            [name] => foto.jpg
+            [full_path] => foto.jpg
+            [type] => 
+            [tmp_name] => 
+            [error] => 3
+            [size] => 0
+        )
+
+)
+=================================================
+
